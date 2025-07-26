@@ -1,9 +1,16 @@
-# 👋 Hello! Welcome to my Github profile.
+### Hi there👋
 ## My name is Isac Vitor Silva and my nickname is "isac-vitor"!
 
 - I am studying ADS 'Systems Analysis and Development' at Estácio De Sá College and I expect to finish in July 2026.
-- I also study a course called Alura, which is recognized throughout Brazil.
-- I’m currently deepening my knowledge in Python, focusing on building a strong foundation for real-world applications, automation, and web development. At the same time, I'm also exploring JavaScript to broaden my understanding of frontend development and modern web interactions.
+- I also study courses on Alura, a well-recognized platform in Brazil, where I plan to deepen my knowledge in Python, JavaScript, and other languages.
+- I’m currently focused on learning Python and JavaScript, building a solid foundation in logic, syntax, and basic programming structures.
+- So far, I’ve followed guided projects from Curso em Vídeo (JavaScript) and Hashtag Programação (Python) using VSCode and PyCharm. My exercises include simple scripts like step counters with exception handling and small automation tasks using `pyautogui`.
+- I haven’t created original projects yet, but I practice regularly and strive to understand the code beyond just typing.
+- At Estácio, I was introduced to UML, HTML/CSS, cloud basics, and programming fundamentals.
+- This repository reflects my learning path — not expertise yet, but steady, honest progress.
+- 📍 I live in Brazil, Minas Gerais state, Belo Horizonte city.
+
+
 
 
 <!--
