@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Isac Vitor Silva and my nickname is "isac-vitor"!
+
+- I am studying ADS 'Systems Analysis and Development' at Estácio De Sá College and I expect to finish in July 2026.
+- I also study a course called Alura, which is recognized throughout Brazil.
+- I’m currently deepening my knowledge in Python, focusing on building a strong foundation for real-world applications, automation, and web development. At the same time, I'm also exploring JavaScript to broaden my understanding of frontend development and modern web interactions.
+
 
 <!--
 **isac-vitor/isac-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
